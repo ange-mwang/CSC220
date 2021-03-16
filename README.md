@@ -1,4 +1,6 @@
-# csc220
+# CSC220
+## Introduction to algorithms and data structures with Professor Victor Milenkovic, Spring 2018
+
 [Prog 01](https://github.com/ange-mwang/CSC220/tree/main/prog01)
 
 - Implementation of superclasses and subclasses 
