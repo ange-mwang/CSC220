@@ -1,0 +1,11 @@
+Wang		Login: awan220        			Name: Angela Wang
+Testing isSorted, sameContents, and insertionSort from LAB work
+prog09.InsertionSort@77f03bb1 on array of length 10000
+235.144 microseconds
+output array is not sorted
+prog09.InsertionSort@77f03bb1 on array of length 100000
+2211.711 microseconds
+output array is not sorted
+insertionSort is not O(n^2) -5
+SCORE: 35/40
+

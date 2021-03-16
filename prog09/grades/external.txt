@@ -1,0 +1,5 @@
+Wang		Login: awan220        			Name: Angela Wang
+javac prog09/ExternalSort.java
+java prog09/ExternalSort
+SCORE: 15/15
+

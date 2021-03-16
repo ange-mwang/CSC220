@@ -1,0 +1,365 @@
+name of word file
+UI words
+Start word: 
+UI snow
+End word: 
+UI rain
+snow
+rain
+4
+0:Human plays. 1:Computer plays.
+UI 1
+Hi you got here
+snow
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+Hi you got here
+know
+off by 1 works
+off by 1 works
+off by 1 works
+Hi you got here
+stow
+off by 1 works
+off by 1 works
+Hi you got here
+scow
+Hi you got here
+slow
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+Hi you got here
+snob
+off by 1 works
+Hi you got here
+show
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+Hi you got here
+snub
+off by 1 works
+off by 1 works
+Hi you got here
+shot
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+Hi you got here
+stew
+off by 1 works
+off by 1 works
+off by 1 works
+Hi you got here
+knot
+off by 1 works
+Hi you got here
+blow
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+Hi you got here
+knit
+off by 1 works
+Hi you got here
+shoe
+Hi you got here
+shop
+off by 1 works
+off by 1 works
+Hi you got here
+flow
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+Hi you got here
+ship
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+Hi you got here
+shit
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+Hi you got here
+stop
+off by 1 works
+Hi you got here
+shin
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+Hi you got here
+glow
+off by 1 works
+Hi you got here
+plow
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+Hi you got here
+slot
+off by 1 works
+off by 1 works
+off by 1 works
+Hi you got here
+knew
+off by 1 works
+off by 1 works
+Hi you got here
+slew
+off by 1 works
+Hi you got here
+slob
+off by 1 works
+Hi you got here
+slit
+off by 1 works
+off by 1 works
+off by 1 works
+Hi you got here
+knob
+Hi you got here
+slop
+off by 1 works
+off by 1 works
+Hi you got here
+shod
+off by 1 works
+Hi you got here
+slip
+off by 1 works
+off by 1 works
+off by 1 works
+Hi you got here
+shed
+off by 1 works
+off by 1 works
+off by 1 works
+Hi you got here
+flip
+off by 1 works
+Hi you got here
+thin
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+Hi you got here
+whip
+off by 1 works
+off by 1 works
+Hi you got here
+blot
+off by 1 works
+Hi you got here
+step
+off by 1 works
+Hi you got here
+stub
+off by 1 works
+off by 1 works
+off by 1 works
+Hi you got here
+skip
+off by 1 works
+off by 1 works
+off by 1 works
+Hi you got here
+stun
+off by 1 works
+Hi you got here
+spot
+off by 1 works
+Hi you got here
+slap
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+Hi you got here
+snip
+Hi you got here
+unit
+Hi you got here
+snug
+off by 1 works
+off by 1 works
+off by 1 works
+Hi you got here
+chit
+off by 1 works
+off by 1 works
+Hi you got here
+skit
+Hi you got here
+brow
+off by 1 works
+off by 1 works
+Hi you got here
+slat
+off by 1 works
+off by 1 works
+off by 1 works
+Hi you got here
+spit
+Hi you got here
+atop
+off by 1 works
+Hi you got here
+flop
+Hi you got here
+shut
+off by 1 works
+off by 1 works
+Hi you got here
+suit
+off by 1 works
+Hi you got here
+chin
+off by 1 works
+Hi you got here
+shun
+Hi you got here
+soot
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+Hi you got here
+skin
+off by 1 works
+Hi you got here
+whit
+off by 1 works
+off by 1 works
+off by 1 works
+Hi you got here
+root
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+Hi you got here
+soon
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+Hi you got here
+wait
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+Hi you got here
+skew
+Hi you got here
+spin
+off by 1 works
+Hi you got here
+plod
+off by 1 works
+off by 1 works
+Hi you got here
+stem
+off by 1 works
+off by 1 works
+Hi you got here
+plot
+Hi you got here
+ploy
+off by 1 works
+Hi you got here
+blob
+off by 1 works
+off by 1 works
+Hi you got here
+slid
+off by 1 works
+Hi you got here
+knee
+Hi you got here
+said
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+off by 1 works
+Hi you got here
+grow
+off by 1 works
+Hi you got here
+raid
+off by 1 works
+off by 1 works
+if list equals target
+while i does not equal start
+while i does not equal start
+while i does not equal start
+while i does not equal start
+while i does not equal start
+while i does not equal start
+while i does not equal start
+boutta push
+while stack is not empty
+while stack is not empty
+while stack is not empty
+while stack is not empty
+while stack is not empty
+while stack is not empty
+while stack is not empty
+while stack is not empty
+send message
+snow
+slow
+slot
+slit
+slid
+said
+raid
+rain
+
+
+you win
+
+Gone through poll 74 times.
+
+SCORE 25/25

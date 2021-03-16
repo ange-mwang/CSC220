@@ -1,0 +1,54 @@
+How many disks?
+UI 3
+0:Human plays. 1:Computer plays.
+UI 0
+a321
+b
+c
+0:ab 1:ac 2:ba 3:bc 4:ca 5:cb
+UI 2
+Cannot move disk from empty stack
+a321
+b
+c
+0:ab 1:ac 2:ba 3:bc 4:ca 5:cb
+UI 1
+a32
+b
+c1
+0:ab 1:ac 2:ba 3:bc 4:ca 5:cb
+UI 1
+Cannot place disk 2 on top of 1
+a32
+b
+c1
+0:ab 1:ac 2:ba 3:bc 4:ca 5:cb
+UI 0
+a3
+b2
+c1
+0:ab 1:ac 2:ba 3:bc 4:ca 5:cb
+UI 5
+a3
+b21
+c
+0:ab 1:ac 2:ba 3:bc 4:ca 5:cb
+UI 1
+a
+b21
+c3
+0:ab 1:ac 2:ba 3:bc 4:ca 5:cb
+UI 2
+a1
+b2
+c3
+0:ab 1:ac 2:ba 3:bc 4:ca 5:cb
+UI 3
+a1
+b
+c32
+0:ab 1:ac 2:ba 3:bc 4:ca 5:cb
+UI 1
+You win!
+
+SCORE: 30/30

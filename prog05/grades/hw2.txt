@@ -1,0 +1,418 @@
+How many disks?
+UI 5
+0:Human plays. 1:Computer plays.
+UI 1
+a54321
+b
+c
+
+move 4 disks from a to b
+move 1 disk from a to c
+move 4 disks from b to c
+
+
+move 3 disks from a to c
+move 1 disk from a to b
+move 3 disks from c to b
+move 1 disk from a to c
+move 4 disks from b to c
+
+
+move 2 disks from a to b
+move 1 disk from a to c
+move 2 disks from b to c
+move 1 disk from a to b
+move 3 disks from c to b
+move 1 disk from a to c
+move 4 disks from b to c
+
+
+move 1 disk from a to c
+move 1 disk from a to b
+move 1 disk from c to b
+move 1 disk from a to c
+move 2 disks from b to c
+move 1 disk from a to b
+move 3 disks from c to b
+move 1 disk from a to c
+move 4 disks from b to c
+
+
+a5432
+b
+c1
+
+move 1 disk from a to b
+move 1 disk from c to b
+move 1 disk from a to c
+move 2 disks from b to c
+move 1 disk from a to b
+move 3 disks from c to b
+move 1 disk from a to c
+move 4 disks from b to c
+
+
+a543
+b2
+c1
+
+move 1 disk from c to b
+move 1 disk from a to c
+move 2 disks from b to c
+move 1 disk from a to b
+move 3 disks from c to b
+move 1 disk from a to c
+move 4 disks from b to c
+
+
+a543
+b21
+c
+
+move 1 disk from a to c
+move 2 disks from b to c
+move 1 disk from a to b
+move 3 disks from c to b
+move 1 disk from a to c
+move 4 disks from b to c
+
+
+a54
+b21
+c3
+
+move 2 disks from b to c
+move 1 disk from a to b
+move 3 disks from c to b
+move 1 disk from a to c
+move 4 disks from b to c
+
+
+move 1 disk from b to a
+move 1 disk from b to c
+move 1 disk from a to c
+move 1 disk from a to b
+move 3 disks from c to b
+move 1 disk from a to c
+move 4 disks from b to c
+
+
+a541
+b2
+c3
+
+move 1 disk from b to c
+move 1 disk from a to c
+move 1 disk from a to b
+move 3 disks from c to b
+move 1 disk from a to c
+move 4 disks from b to c
+
+
+a541
+b
+c32
+
+move 1 disk from a to c
+move 1 disk from a to b
+move 3 disks from c to b
+move 1 disk from a to c
+move 4 disks from b to c
+
+
+a54
+b
+c321
+
+move 1 disk from a to b
+move 3 disks from c to b
+move 1 disk from a to c
+move 4 disks from b to c
+
+
+a5
+b4
+c321
+
+move 3 disks from c to b
+move 1 disk from a to c
+move 4 disks from b to c
+
+
+move 2 disks from c to a
+move 1 disk from c to b
+move 2 disks from a to b
+move 1 disk from a to c
+move 4 disks from b to c
+
+
+move 1 disk from c to b
+move 1 disk from c to a
+move 1 disk from b to a
+move 1 disk from c to b
+move 2 disks from a to b
+move 1 disk from a to c
+move 4 disks from b to c
+
+
+a5
+b41
+c32
+
+move 1 disk from c to a
+move 1 disk from b to a
+move 1 disk from c to b
+move 2 disks from a to b
+move 1 disk from a to c
+move 4 disks from b to c
+
+
+a52
+b41
+c3
+
+move 1 disk from b to a
+move 1 disk from c to b
+move 2 disks from a to b
+move 1 disk from a to c
+move 4 disks from b to c
+
+
+a521
+b4
+c3
+
+move 1 disk from c to b
+move 2 disks from a to b
+move 1 disk from a to c
+move 4 disks from b to c
+
+
+a521
+b43
+c
+
+move 2 disks from a to b
+move 1 disk from a to c
+move 4 disks from b to c
+
+
+move 1 disk from a to c
+move 1 disk from a to b
+move 1 disk from c to b
+move 1 disk from a to c
+move 4 disks from b to c
+
+
+a52
+b43
+c1
+
+move 1 disk from a to b
+move 1 disk from c to b
+move 1 disk from a to c
+move 4 disks from b to c
+
+
+a5
+b432
+c1
+
+move 1 disk from c to b
+move 1 disk from a to c
+move 4 disks from b to c
+
+
+a5
+b4321
+c
+
+move 1 disk from a to c
+move 4 disks from b to c
+
+
+a
+b4321
+c5
+
+move 4 disks from b to c
+
+
+move 3 disks from b to a
+move 1 disk from b to c
+move 3 disks from a to c
+
+
+move 2 disks from b to c
+move 1 disk from b to a
+move 2 disks from c to a
+move 1 disk from b to c
+move 3 disks from a to c
+
+
+move 1 disk from b to a
+move 1 disk from b to c
+move 1 disk from a to c
+move 1 disk from b to a
+move 2 disks from c to a
+move 1 disk from b to c
+move 3 disks from a to c
+
+
+a1
+b432
+c5
+
+move 1 disk from b to c
+move 1 disk from a to c
+move 1 disk from b to a
+move 2 disks from c to a
+move 1 disk from b to c
+move 3 disks from a to c
+
+
+a1
+b43
+c52
+
+move 1 disk from a to c
+move 1 disk from b to a
+move 2 disks from c to a
+move 1 disk from b to c
+move 3 disks from a to c
+
+
+a
+b43
+c521
+
+move 1 disk from b to a
+move 2 disks from c to a
+move 1 disk from b to c
+move 3 disks from a to c
+
+
+a3
+b4
+c521
+
+move 2 disks from c to a
+move 1 disk from b to c
+move 3 disks from a to c
+
+
+move 1 disk from c to b
+move 1 disk from c to a
+move 1 disk from b to a
+move 1 disk from b to c
+move 3 disks from a to c
+
+
+a3
+b41
+c52
+
+move 1 disk from c to a
+move 1 disk from b to a
+move 1 disk from b to c
+move 3 disks from a to c
+
+
+a32
+b41
+c5
+
+move 1 disk from b to a
+move 1 disk from b to c
+move 3 disks from a to c
+
+
+a321
+b4
+c5
+
+move 1 disk from b to c
+move 3 disks from a to c
+
+
+a321
+b
+c54
+
+move 3 disks from a to c
+
+
+move 2 disks from a to b
+move 1 disk from a to c
+move 2 disks from b to c
+
+
+move 1 disk from a to c
+move 1 disk from a to b
+move 1 disk from c to b
+move 1 disk from a to c
+move 2 disks from b to c
+
+
+a32
+b
+c541
+
+move 1 disk from a to b
+move 1 disk from c to b
+move 1 disk from a to c
+move 2 disks from b to c
+
+
+a3
+b2
+c541
+
+move 1 disk from c to b
+move 1 disk from a to c
+move 2 disks from b to c
+
+
+a3
+b21
+c54
+
+move 1 disk from a to c
+move 2 disks from b to c
+
+
+a
+b21
+c543
+
+move 2 disks from b to c
+
+
+move 1 disk from b to a
+move 1 disk from b to c
+move 1 disk from a to c
+
+
+a1
+b2
+c543
+
+move 1 disk from b to c
+move 1 disk from a to c
+
+
+a1
+b
+c5432
+
+move 1 disk from a to c
+
+
+a
+b
+c54321
+
+
+
+
+SCORE: 30/30
