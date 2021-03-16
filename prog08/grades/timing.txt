@@ -1,8 +1,0 @@
-ArrayBasedPD	3.96 s	    3684.22s	15.09 m 
-SortedPD		.9s			141.1 s		24.35 s
-SortedDLLPD		.3s			47.03 s		.59 s 
-BST			48.77 s 
-TreeMap		1.23 s 
-DLLTree		.73 s 
-
-SCORE:  50/50
